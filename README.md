@@ -30,6 +30,8 @@ A list of nice frameworks, libraries and tools related to full-stack web develop
 
 [Cloudflare Workers](https://workers.cloudflare.com): Deploy serverless code instantly across the globe.
 
+[Railway](https://railway.app/): A modern serverless platform with graphical architecture designer and able to run apps, databases and docker images.
+
 ## Serverless Databases
 
 [Supabase](https://supabase.com): Serverless Database implemented on top of Postgres with extras like Authentication, Storage and real-time updates.
